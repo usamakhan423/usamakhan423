@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/usamaghaffar423" target="blank"><img src="https://img.shields.io/twitter/follow/usamaghaffar423?logo=twitter&style=for-the-badge" alt="usamaghaffar423" /></a> </p>
 
-- 🌱 I’m currently learning **React, Material-UI**
+- 🌱 I’m currently learning **Nextjs**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node&Express, Mongodb, Material-UI, Bootstrap and much more**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node&Express, Mongodb, Tailwindcss and much more**
 
 - 📫 How to reach me **usamaghaffar423@gmail.com**
 
