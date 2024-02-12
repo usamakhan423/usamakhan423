@@ -1,5 +1,5 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)](http://usamakhan.io)
-<h1 align="center">Hi 👋, I'm Maaz Yousaf</h1>
+<h1 align="center">Hi 👋, I'm Osama Ghaffar</h1>
 <h3 align="center">A passionate Full-Stack developer from Pakistan</h3>
 <img align="center" alt="Coding" width="100%" height="500" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bs76fxyjoargvmq9wg0rw4v2qf3d65al7uh5vswx&rid=giphy.gif&ct=g">
 
